@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Christoph Düsing</h1>
-<h3 align="center">PhD student for Data Science at Bielefeld University/h3>
+<h3 align="center">PhD student for Data Science at Bielefeld University</h3>
 
 <h3 align="left">You would like to know more about me or get in touch?</h3>
 <p align="left">
