@@ -2,10 +2,10 @@
 <h3 align="center">PhD student for Data Science at Bielefeld University</h3>
 
 <h3 align="left">What i am interested in:</h3>
-- Improving Clinical Decision Support using Machine Learning and eXplainable AI <br>
 - Applications of Federated Learning <br>
-- Natural Language Processing<br>
+- Improving Clinical Decision Support using Machine Learning and eXplainable AI <br>
 - (Federated) Data Analytics<br>
+- Natural Language Processing<br>
 - and many more...
 
 <h3 align="left">You would like to know more about me or get in touch?</h3>
